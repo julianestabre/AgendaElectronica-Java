@@ -34,7 +34,7 @@ La aplicación funciona como una agenda electrónica básica con almacenamiento 
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
 - Interfaz intuitiva y fácil de usar.  
 - Almacenamiento dinámico de datos por índice.  
