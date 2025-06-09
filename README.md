@@ -4,6 +4,12 @@ Es una aplicación de escritorio desarrollada en **Java** utilizando **Swing** c
 
 ---
 
+## Captura de pantalla
+
+![agendaElectronica](https://github.com/user-attachments/assets/f8798aa1-dd10-4715-ab5a-f4f96abff53c)
+
+---
+
 ## Descripción del proyecto
 
 La aplicación funciona como una agenda electrónica básica con almacenamiento por **índice numérico**. El usuario puede:
